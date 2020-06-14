@@ -3,5 +3,8 @@ from this code you will be able to scrap the amazon webpage and if the price of 
  
  * You first have to install bs4 using pip
  
- Code to install BeautifulSoup4 ---> 
- pip install beautifulsoup4
+ ## Installation
+ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install bs4.
+```bash
+pip install beautifulsoup4
+```
